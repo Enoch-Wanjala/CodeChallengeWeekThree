@@ -53,8 +53,7 @@ function displayPosters(films){
               <a href="#" class="btn btn-primary">Buy Ticket</a>
             </div>
           </div>
-
-        `
+          `
         filmsContainer.append(films)
     }}
 
